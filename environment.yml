@@ -1,0 +1,11 @@
+name: girlsday
+channels:
+- conda-forge
+- defaults
+dependencies:
+- python=3.6
+- pandas=0.19.2
+- matplotlib=2.0.2
+- seaborn=0.7.1
+- wordcloud=1.4.1
+- lxml=4.2.0
