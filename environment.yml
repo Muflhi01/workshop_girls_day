@@ -9,3 +9,4 @@ dependencies:
 - seaborn=0.7.1
 - wordcloud=1.4.1
 - lxml=4.2.0
+- beautifulsoup4=4.6.0
