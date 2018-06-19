@@ -12,4 +12,4 @@ dependencies:
 - beautifulsoup4=4.6.0
 - wikipedia=1.4.0
 - networkx=1.11
-- jupyterhub=0.8.*
+- jupyterhub=0.9.0
